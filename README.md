@@ -2,7 +2,5 @@
 A repo for collaboratively learning the basics of Git + Github
 
 
-something
-
-
-I say some crazy shit
+What's the difference between git fetch and git pull?
+* [Link to Article](What's the difference between git fetch and git pull?)
