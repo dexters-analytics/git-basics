@@ -6,25 +6,27 @@ I'll take a stab but we can obviously do other thing here too.
 
 **Conceptual**
 * why and how should we use git for personal code use?
-		how does this differ from collaborative use?
+* how does this differ from collaborative use?
 
 **Practice**
 * What are some good ideas about how to incorporate this tool into our routines?
 
 **Basics**
-	*What's the difference between git fetch and git pull?\
-	*git remote\
-		remote is the origin or the web location where you can push to pull from. you can have multiple origins. Let's say you were interested in pulling from the main repo called origin but you'd like to save your edits to your personal repo called origin_yours. Something like this
-	*git checkout\
-	*git add\
-	*git push\
-	*git pull\
-	*git fetch\
-	*git diff\
-	*what else??\
+1. What's the difference between git fetch and git pull?\
+2. git remote\
+3. remote is the origin or the web location where you can push to pull from. you can have multiple origins. Let's say you were interested in pulling from the main repo called origin but you'd like to save your edits to your personal repo called origin_yours. Something like this
+4. git checkout\
+5. git add\
+6. git push\
+7. git pull\
+8. git fetch\
+9. git diff\
+10. what else??
+##Articles##
 * [Link to Article](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
 * [Github MarkDown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+###Adventure time###
 **Make your own fork!**
 :fire:I used the browser then added a remote to my laptop with this:fire:\
 ```
