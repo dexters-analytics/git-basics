@@ -26,6 +26,8 @@ I'll take a stab but we can obviously do other thing here too.
 ## Articles
 * [Link to Article](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
 * [Github MarkDown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+> This one is about how to use fetch and how can we tell if our branch is up-to-date. Definitley :eight_pointed_black_star: read this one!!!
+* 
 
 ### Adventure time
 **Make your own fork!**
