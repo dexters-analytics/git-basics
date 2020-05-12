@@ -23,6 +23,7 @@ I'll take a stab but we can obviously do other thing here too.
 	*git diff\
 	*what else??\
 * [Link to Article](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
+* [Github MarkDown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 **Make your own fork!**
 :fire:I used the browser then added a remote to my laptop with this:fire:\
