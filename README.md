@@ -24,7 +24,8 @@ I'll take a stab but we can obviously do other thing here too.
 10. what else??
 
 ## Articles
-* [Link to Article](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
+* [New to Git and GitHub? This Essential Beginners Guide is for you](https://www.analyticsvidhya.com/blog/2020/05/git-github-essential-guide-beginners/)
+* [What's the difference between git fetch and git pull?](https://www.git-tower.com/learn/git/faq/difference-between-git-fetch-git-pull)
 * [Github MarkDown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 > This one is about how to use fetch and how can we tell if our branch is up-to-date. Definitley :eight_pointed_black_star: read this one!!!
 * [Fetching is manual and its also the safest thing you can do](https://jamesjoshuahill.github.io/note/2015/02/07/is-your-branch-up-to-date/)
